@@ -1,0 +1,9 @@
+{
+	"name": "anshprojectadf",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c33a462c-ed97-491f-b67a-432f6122357f",
+		"tenantId": "cc20f59c-0586-4203-bb19-54611bc880cd"
+	}
+}
